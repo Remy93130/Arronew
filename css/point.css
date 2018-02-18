@@ -1,0 +1,41 @@
+body
+{
+	background-image:url(../files/fond.png);
+}
+nav
+{
+	margin-left: 100px;
+	margin-top: 200px;
+	margin-right: 900px;
+	background-color: #D8D8D8;
+}
+p
+{
+	margin-left:18px;
+	font
+	
+}
+h1
+{
+	margin-left:50px;
+	font-size:40px; 
+	color:cadetblue;
+}
+input
+{
+	margin-left: 17px;
+	font-size: 15px;
+}
+.valider
+{
+	font-size: 25px;
+	margin-left: 70px;
+	color: cadetblue;
+}
+a
+{
+	margin-left: 18px;
+	font-size: 17px;
+	color:inherit;
+	font-weight: 600;
+}
