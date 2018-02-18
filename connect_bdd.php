@@ -1,1 +1,0 @@
-$bdd = new PDO('mysql:host=localhost;dbname=my_rm93130', 'rm93130','');
